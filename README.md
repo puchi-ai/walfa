@@ -1,4 +1,4 @@
-# Walrus Finance Agent
+# WalFA - Walrus Finance Agent
 A Persistent Onchain Trading & DeFi Intelligence Agent powered by Walrus Memory
 
 ## Project Overview
